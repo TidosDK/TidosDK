@@ -32,6 +32,6 @@
 
 <img align="left" alt="codeSTACKr's Github Stats" src="https://github-readme-stats.codestackr.vercel.app/api?username=TidosDK&show_icons=true&hide_border=true"/>
 
-[website]: https://msnn.dk
+[website]: http://msnn.dk
 [youtube]: https://www.youtube.com/channel/UCiokOCpdc0pHuEjEDFdoqng
 [linkedin]: https://www.linkedin.com/in/mathias-nicolajsen-3bb48513b
