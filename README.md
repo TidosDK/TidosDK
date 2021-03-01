@@ -1,6 +1,6 @@
 ### Hello, I'm Mathias Nicolajsen - aka Matty aka TidosDK 👋
 
-## I'm an 18 year old student in Denmark!
+## I'm an 19 year old student in Denmark!
 - 📖 I'm currently learning to code
 - 🗃 I have lots of projects and some in the repository
 
